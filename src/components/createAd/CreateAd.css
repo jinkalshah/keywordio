@@ -1,0 +1,36 @@
+.mainDiv{
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    /* background-color: lightgrey; */
+    
+}
+.container-1{
+    margin-top: 10px;
+    border: 2px solid #F0F0F0;
+    box-shadow: 2px 2px 2px 2px #F0F0F0;
+}
+.container-2{
+    margin-left: 30px;
+    margin-top: 10px;
+    border: 1px solid #F0F0F0;
+    box-shadow: 2px 2px 2px 2px #F0F0F0;
+}
+.container{
+    max-width: unset;
+    display: flex;
+    justify-content: center;
+}
+.container label{
+    padding-top:10px;
+}
+.form-group, .row {
+    margin-top: 15px !important;
+}
+.container label p{
+    text-align: center;
+}
+.formOne{
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 7px;
+}

@@ -1,0 +1,17 @@
+.container{
+    margin: 20px;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    max-width: unset !important;
+}
+.dashBoardDivs{
+    padding: 20px;
+    border: 1px solid #3333;
+    border-radius: 7px;
+    margin-left: 10px;
+}
+th{
+    font-weight: 700 !important;
+}
+.MuiDataGrid-footerContainer{
+    display: none !important;
+}
